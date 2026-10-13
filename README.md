@@ -1,5 +1,9 @@
 #           Olist E-commerce Product Analytics Case Study
 
+ 
+ **[Download Project Summary & Charts (ZIP)](diagrams.zip)**
+
+ 
 ## Project Overview
 
 This project presents an end-to-end product analytics study of Olist, the  e-commerce marketplace in Brazil (analyzing 100k+ orders from 2016 to 2018). 
