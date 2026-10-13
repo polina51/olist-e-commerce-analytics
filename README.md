@@ -20,7 +20,7 @@ This project presents an end-to-end product analytics study of Olist, the  e-com
 * **Environment:** Google Colab, Jupyter Notebook
 * **Framework:** Fact → Root Cause / Business Impact → Recommendation
 
----
+
 
 ##  Key Analytical Highlights
 
@@ -29,7 +29,7 @@ This project presents an end-to-end product analytics study of Olist, the  e-com
 * **Low Retention:** Over **97%** of customers buy only once, indicating a lack of post-purchase retention loops.
 * **Regional Bottlenecks:** Delivery delays peak in **Bahia (14.0%)** and **Rio de Janeiro (13.5%)**, driving regional churn.
 * **Shipping Friction:** Freight costs reach **50.6%** of item price in budget categories like Telephony, creating purchase barriers.
----
+
 
 ##  Core Insights & Executive Summary
 
@@ -58,7 +58,7 @@ This project presents an end-to-end product analytics study of Olist, the  e-com
 * **Impact:** High relative shipping costs decrease conversion rates on lower-priced accessories.
 * **Recommendation:** Offer bundled shipping discounts on budget accessories to lower freight barriers.
 
----
+
 
 ## Project Structure
 ```text
